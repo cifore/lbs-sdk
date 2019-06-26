@@ -1,4 +1,4 @@
-package com.csi.lbs.lbssdk.utils;
+package com.simnectzbank.sdk.utils;
 
 import java.io.IOException;
 import java.net.URI;
