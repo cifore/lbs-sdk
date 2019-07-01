@@ -46,7 +46,7 @@ public class CommonMethod {
     }
 
     /**
-     * 读取配置文件
+     * 读取配置endpoint文件
      * @return
      */
     public Properties urlPro(){
